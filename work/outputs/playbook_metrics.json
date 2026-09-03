@@ -1,0 +1,16 @@
+{
+  "total_pages_evaluated": 27886,
+  "actions_distribution": {
+    "CONTENT_REVIEW": 14566,
+    "MONITOR": 8750,
+    "OPTIMIZE_SNIPPET": 4435,
+    "PRIORITY_REFRESH": 135
+  },
+  "reason_codes_distribution": {
+    "GENERAL_CONTENT_DECAY": 14566,
+    "LOW_RISK_EVERGREEN": 8750,
+    "STRIKING_DISTANCE_OPPORTUNITY": 4435,
+    "STALE_HIGH_TRAFFIC_DECAY": 135
+  },
+  "avg_decay_risk": 0.5236
+}
