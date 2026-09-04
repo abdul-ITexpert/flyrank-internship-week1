@@ -1,0 +1,15 @@
+{
+  "dataset_total_pages": 27886,
+  "validation_split": "GroupShuffleSplit by client_hash_id",
+  "baseline_roc_auc": 0.5094,
+  "model_roc_auc": 0.7068,
+  "baseline_recall": 0.3067,
+  "model_recall": 0.657,
+  "model_f1": 0.7501,
+  "recommended_actions_distribution": {
+    "CONTENT_REVIEW": 13910,
+    "MONITOR": 9973,
+    "OPTIMIZE_SNIPPET": 3850,
+    "PRIORITY_REFRESH": 153
+  }
+}
